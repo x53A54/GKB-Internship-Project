@@ -26,17 +26,17 @@ IV. Key Features
 
 V. How to Run the Project
 
-1. Clone the repository
+1. Clone the repository:
    git clone <https://github.com/x53A54/GKB-Internship-Project>
 
-2. Navigate to the project folder
+2. Navigate to the project folder:
    cd GKB-Internship-Project
 
 
-3. Install dependencies (ensure Python and pip are installed)
+3. Install dependencies: (ensure Python and pip are installed)
    pip install pandas
 
-4. Open the project in VS Code or Jupyter Notebook
+4. Open the project in VS Code or Jupyter Notebook:
    Open main.py using your preferred IDE.
 
 5. Run the cells in main.py sequentially
