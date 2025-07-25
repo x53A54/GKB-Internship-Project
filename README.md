@@ -27,18 +27,19 @@ IV. Key Features
 V. How to Run the Project
 
 1. Clone the repository
-   git clone <your-repository-link>
+   git clone <https://github.com/x53A54/GKB-Internship-Project>
 
 2. Navigate to the project folder
-   cd Movie_Recommender
+   cd GKB-Internship-Project
+
 
 3. Install dependencies (ensure Python and pip are installed)
    pip install pandas
 
 4. Open the project in VS Code or Jupyter Notebook
-   Open main.ipynb using your preferred IDE.
+   Open main.py using your preferred IDE.
 
-5. Run the cells in main.ipynb sequentially
+5. Run the cells in main.py sequentially
 
 6. When prompted, enter a genre (e.g., Comedy, Action, Drama) to receive top movie recommendations.
 
