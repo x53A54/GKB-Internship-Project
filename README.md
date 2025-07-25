@@ -30,7 +30,7 @@ V. How to Run the Project
    git clone <https://github.com/x53A54/GKB-Internship-Project>
 
 2. Navigate to the project folder:
-   cd GKB-Internship-Project
+   cd Movie_Recommender
 
 
 3. Install dependencies: (ensure Python and pip are installed)
