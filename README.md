@@ -1,4 +1,4 @@
-Movie Recommendation by Genre
+Genre-Based Movie Recommender
 
 I. Problem Statement
 This project provides users with top-rated movie recommendations based on a selected genre. The results are based on aggregated user ratings from a publicly available dataset and are filtered to ensure they are reliable and relevant.
